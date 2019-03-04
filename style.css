@@ -1,0 +1,28 @@
+p{
+    font-size: 18px;
+}
+
+.container{
+   background-color: white;
+}
+
+.navbar{
+   background-color: #28A745;
+}
+
+.nav, .navbar-nav{
+      color: white;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("../img/asian.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
